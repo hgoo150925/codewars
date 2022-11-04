@@ -16,4 +16,9 @@ public static class Kata
         }
         return sum;
     }
+
+    // public static int summation(int num)
+    // {
+    //   return num * (num + 1) / 2;
+    // }
 }
